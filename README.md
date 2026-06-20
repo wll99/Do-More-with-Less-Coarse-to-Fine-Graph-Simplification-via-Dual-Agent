@@ -1,7 +1,7 @@
 # Do-More-with-Less: Coarse-to-Fine Graph Simplification via Dual-Agent
 
 This repository contains the official implementation of our dual‑agent graph simplification algorithm. The core code resides in `Do more with less/highestRL.py`.
-
+`technical_report.pdf` is the technical report referenced in our paper.
 ---
 
 ## Components
